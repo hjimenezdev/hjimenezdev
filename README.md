@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning everything about Java, HTML and CSS 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play football and go to the gym ⚽.
+- ⚡ Fun fact: I love to play football ⚽.
 
 ---
 
