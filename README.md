@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Web Aplications Development Student  
+## I'm a Web Aplications Development Student in Granada
 
 - 📚 I’m currently learning everything about Java, HTML and CSS 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
