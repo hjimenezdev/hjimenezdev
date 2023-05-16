@@ -8,7 +8,7 @@
 - 📚 I’m currently learning everything about Java, HTML and CSS 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play football ⚽.
-- 📧 How to reach me? jimenezmunozhugo11@gmail.com
+- 📧 How to reach me? hjimenezdev@gmail.com
 - 🌐 My web page: https://hjimenezdev.github.io/
 
 ---
