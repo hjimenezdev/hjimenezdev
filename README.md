@@ -17,7 +17,7 @@
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/512/javascript.png" />
-<img align="left" alt="Java" width="40px" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
+<img align="left" alt="Java" width="40px" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" />
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/color/512/mysql-logo.png" />
 <img align="left" alt="Postgres" width="40px" src="https://img.icons8.com/color/512/postgreesql.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/512/mongodb.png" />
