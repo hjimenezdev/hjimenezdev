@@ -14,16 +14,13 @@
 ---
 
 ### Languages 🛠 
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank"rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/512/javascript.png" />
+<img align="left" alt="Java" width="40px" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
+<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/color/512/mysql-logo.png" />
+<img align="left" alt="Postgres" width="40px" src="https://img.icons8.com/color/512/postgreesql.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/512/mongodb.png" />
 <br>
 
 ### Frameworks:
@@ -31,15 +28,14 @@
 <img align="left" alt="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png">
 <img align="left" alt="CodeIgniter4" width="40px" src="https://www.codeigniter.com/assets/icons/ci-footer.png">
 <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<br>
 
-### Databases:
-<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
-<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
-<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
-<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
-<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+### Tools:
+<img align="left" alt="VSC" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img align="left" alt="VSC" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>
+<br>
 
-
+### CMS:
+<img align="left" alt="Wordpress" width="40px" src="https://img.icons8.com/color/512/wordpress.png" />
 <br>
 ---
