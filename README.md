@@ -29,6 +29,6 @@
 <br>
 
 ### Frameworks:
-<img align="left" alt="PHP" width="40px"><i class="fa-brands fa-php"></i></img>
+<img align="left" alt="PHP" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw2Bke2fyCL8BhQgc6aM1Z_3&ust=1705685062859000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLij8aS654MDFQAAAAAdAAAAABAD">
 
 ---
