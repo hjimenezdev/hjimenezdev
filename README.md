@@ -15,8 +15,6 @@
 
 ### Languages 🛠 
 <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -30,5 +28,18 @@
 
 ### Frameworks:
 <img align="left" alt="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png">
+<img align="left" alt="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png">
+<img align="left" alt="CodeIgniter4" width="40px" src="https://www.codeigniter.com/assets/icons/ci-footer.png">
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 
+### Databases:
+<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+<img align="left" alt="MySQL" width="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+
+
+<br>
 ---
