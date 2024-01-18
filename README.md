@@ -7,9 +7,9 @@
 
 - 📚 I’m currently learning everything about Front-End.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play football ⚽.
 - 📧 How to reach me? hjimenezdev@gmail.com
 - 🌐 My web page: https://hjimenezdev.github.io/
+- ⚡ Fun fact: I love to play football ⚽.
 
 ---
 
@@ -36,9 +36,10 @@
 <img align="left" alt="VSC" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>
 <img align="left" alt="Illustrator" width="40px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
 <img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
+<img align="left" alt="Apache" width="40px" src="https://cdn.simpleicons.org/apache/D22128"/>
+<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <br><br>
 
 ### CMS:
 <img align="left" alt="Wordpress" width="40px" src="https://img.icons8.com/color/512/wordpress.png" />
 <br><br>
----
