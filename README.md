@@ -1,5 +1,4 @@
 # Hi there, I'm Hugo Jiménez Muñoz
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hjimenezdev&color=blue" alt="watching_count" /></p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
